@@ -1,0 +1,10 @@
+{
+ 
+  "pro": {
+    "reqUrl": "https://www.xyfcoco.top/node_upload/",
+    "localPath": "./three",
+    "servicePath": "/www/wwwroot/xyfcoco.top/three",
+    "build": "build",
+    "needBuild": 1
+  }
+}
